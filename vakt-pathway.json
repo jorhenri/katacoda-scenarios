@@ -7,7 +7,7 @@
       {
         "course_id": "Docker-intro",
         "title": "Docker - kort introduksjon",
-        "description": "Katacoda Scenario Example"
+        "description": "Basic gjennomgang av Docker, med noen eksempler på de vanligste kommandoene"
       },
       {
         "course_id": "uilayout-editor-terminal",
