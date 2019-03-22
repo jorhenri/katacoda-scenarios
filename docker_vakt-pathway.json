@@ -10,6 +10,11 @@
         "description": "Basic gjennomgang av Docker, med noen eksempler på de vanligste kommandoene"
       },
       {
+        "course_id": "Kubernetes",
+        "title": "Kubernetes for vaktlaget",
+        "description": "Basic gjennomgang av Kubernetes, med noen eksempler på de vanligste kommandoene"
+      },
+      {
         "course_id": "uilayout-editor-terminal",
         "title": "Scenario with Editor Terminal UI",
         "description": "Katacoda Scenario Example"
