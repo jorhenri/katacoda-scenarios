@@ -1,1 +1,1 @@
-Velkommen til et intro kurs om Docker 
+Velkommen til et introkurs om Docker 
