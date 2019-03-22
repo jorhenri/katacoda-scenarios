@@ -1,1 +1,1 @@
-Det var det ... Hopp videre til mer utfordrende kurs her på Katacoda.
+Det er mye bra kurs på Katacoda når det gjelder K8s. Sjekk ut Ben Hall sin samling på https://www.katacoda.com/courses/kubernetes
