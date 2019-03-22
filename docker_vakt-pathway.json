@@ -5,7 +5,7 @@
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "docker_vakt",
+        "course_id": "docker basic",
         "title": "Docker for vaktlaget",
         "description": "Basic gjennomgang av Docker, med noen eksempler på de vanligste kommandoene"
       },
