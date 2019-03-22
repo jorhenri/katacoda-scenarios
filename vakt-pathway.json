@@ -1,12 +1,12 @@
 
 {
     "title": "Diverse kurs for vaktlaget",
-    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "description": "Noen små kurs tilpasset vårt nye driftsmiljø",
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "uilayout-terminal",
-        "title": "Scenario with Terminal UI",
+        "course_id": "Docker-intro",
+        "title": "Docker - kort introduksjon",
         "description": "Katacoda Scenario Example"
       },
       {
