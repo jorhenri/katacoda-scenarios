@@ -6,7 +6,7 @@
     "courses": [
       {
         "course_id": "Docker-intro",
-        "title": "Docker - kort introduksjon",
+        "title": "Docker for vaktlaget",
         "description": "Basic gjennomgang av Docker, med noen eksempler på de vanligste kommandoene"
       },
       {
