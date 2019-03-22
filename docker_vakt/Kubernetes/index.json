@@ -1,6 +1,6 @@
 {
-  "course_id": "docker basic",
-  "title": "Docker for vaktlaget",
+  "course_id": "Kubernetes",
+  "title": "Kubernetes for vaktlaget",
   "description": "Kjapp howto som kan hjelpe hvis det er trøbbel",
   "difficulty": "beginner",
   "time": "15 minutes",
@@ -26,6 +26,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "minikube"
   }
 }
